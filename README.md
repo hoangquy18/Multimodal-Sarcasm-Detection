@@ -4,6 +4,5 @@
 * Explored various loss functions and implemented advanced techniques to address class imbalanced.
 <img src="images/my_model.png" >
 
-## Results
 
 
